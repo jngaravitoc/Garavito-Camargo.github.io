@@ -17,7 +17,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Nicolas Garavito-Camargo"
-   link: "/about/"
+ - name: "Research"
+   link: "research"
  - name: "CV/publications"
-   link: "/cv_pub/"
+   link: "cv_pub"
+ - name: "Outreach & Community"
+   link: "outreach"
