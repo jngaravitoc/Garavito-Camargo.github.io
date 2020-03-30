@@ -1,10 +1,11 @@
 title: Nicolas Garavito Camargo
 url: "https://ankitsultana.com"
-baseurl: "/about"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 remote_theme: ankitsultana/researcher@gem
+
 tracking_id: #
 
 footer: yes
@@ -16,9 +17,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Research"
-   link: "research"
- - name: "CV/publications"
-   link: "cv_pub"
- - name: "Outreach & Community"
-   link: "outreach"
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
