@@ -19,5 +19,5 @@ sass:
 nav:
  - name: "Nicolas Garavito-Camargo"
    link: "/about/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "CV/publications"
+   link: "/cv_pub/"

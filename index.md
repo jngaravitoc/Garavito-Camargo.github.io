@@ -19,6 +19,8 @@ working with Professor Gurtina Besla.
 
 * Email: [jngaravitoc@email.arizona.edu](mailto:jngaravitoc@email.arizona.edu)
 
+Pronouns: he/him/his
+
 ## Social
 
 1. [Github](https://github.com/jngaravitoc/)
