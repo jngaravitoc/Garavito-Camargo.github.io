@@ -14,3 +14,13 @@ its more massive satellite, the Large Magellanic Cloud. I use N-body simulations
 and numerical methods to build Milky Way gravitational potentials. Currently, I am 
 working with Professor Gurtina Besla.
 
+## Contact
+
+
+* Email: [jngaravitoc@email.arizona.edu](mailto:jngaravitoc@email.arizona.edu)
+
+## Social
+
+1. [Github](https://github.com/jngaravitoc/)
+2. [Twitter](https://github.com/jngaravitoc/)
+
