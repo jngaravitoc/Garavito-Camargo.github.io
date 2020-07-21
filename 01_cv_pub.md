@@ -10,8 +10,8 @@ permalink: /cv_pub/
 
 ## Selected recent publications:
 
-1. [*Quantifying the Stellar Halo's Response to the LMC's Infall with Spherical
-   Harmonics](https://ui.adsabs.harvard.edu/abs/2020arXiv200608621C/abstract),
+1. [*"Quantifying the Stellar Halo's Response to the LMC's Infall with Spherical
+   Harmonics"*](https://ui.adsabs.harvard.edu/abs/2020arXiv200608621C/abstract),
 Cunningham, Emily C.; **Garavito-Camargo, Nicolas** et al. (2020)
 2. [*"The Orbital Histories of the Magellanic Satellites Using Gaia DR2 Proper
    Motions"*](https://ui.adsabs.harvard.edu/abs/2020arXiv200101746P/abstract),
